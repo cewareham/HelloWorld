@@ -1,3 +1,5 @@
+![headshot](chris2008.jpg)
+
 # HelloWorld
 Example from GitHub for Dummies book
 
